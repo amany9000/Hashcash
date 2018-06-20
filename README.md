@@ -5,6 +5,7 @@ Installation:
 ===
 Clone the repo cd directly and then
 Run: npm install
+
 Running :
 ===
 In the terminal,
