@@ -11,3 +11,6 @@ Running :
 In the terminal,
 Run : node main.js
 
+For more information:
+===
+<a href ="https://en.bitcoin.it/wiki/Hashcash">Read this</a>
